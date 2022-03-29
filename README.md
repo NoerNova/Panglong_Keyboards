@@ -51,14 +51,14 @@ These are  Panglong Keyboard layout for [Shan/Tai language](https://en.wikipedia
 
 ## Roadmap
 
-- [x] Android - [https://github.com/NoerNova/openboard/pulls](https://github.com/NoerNova/openboard)
+- [x] Android - [https://github.com/NoerNova/openboard](https://github.com/NoerNova/openboard)
   - [x] With auto correct dictionary.
-- [x] iOS - [https://github.com/NoerNova/PanglongKeyboard-iOS/pulls](https://github.com/NoerNova/PanglongKeyboard-iOS)
+- [x] iOS - [https://github.com/NoerNova/PanglongKeyboard-iOS](https://github.com/NoerNova/PanglongKeyboard-iOS)
   - [ ] With auto correct dictionary.
-- [x] Linux - [https://github.com/NoerNova/Shan-keyboard-X11-linux/pulls](https://github.com/NoerNova/Shan-keyboard-X11-linux)
+- [x] Linux - [https://github.com/NoerNova/Shan-keyboard-X11-linux](https://github.com/NoerNova/Shan-keyboard-X11-linux)
   - [ ] Contribute to Linux package management
-- [x] macOS - [https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS/pulls](https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS)
-- [x] Windows - [https://github.com/NoerNova/Panglong_Shan_Keyboard_win/pulls](https://github.com/NoerNova/Panglong_Shan_Keyboard_win)
+- [x] macOS - [https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS](https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS)
+- [x] Windows - [https://github.com/NoerNova/Panglong_Shan_Keyboard_win](https://github.com/NoerNova/Panglong_Shan_Keyboard_win)
 
 See the [open issues](https://github.com/NoerNova/Panglong_Keyboards/issues) for a full list of proposed features (and known issues).
 

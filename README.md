@@ -36,7 +36,7 @@
 ## About The Project
 
 <div align="center">
-    <img src="Keyboard_Layout_Shan.png" alt="Panglong Keyboard by Sai Tawng Pha" height="300" />
+  <img src="Keyboard_Layout_Shan.png" alt="Panglong Keyboard by Sai Tawng Pha" height="300" width="100%" /><br />
   <figure>Panglong Keyboard by Sai Tawng Pha</figure>
 </div>
 

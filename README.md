@@ -8,7 +8,6 @@
     <img src="Panglong_Keyboard-logo.png" alt="Panglong Keyboard" width="80" height="80">
   </a>
 
-
   <h3 align="center">Panglong Keyboard - Shan keyboard layout</h3>
 
 </div>
@@ -36,11 +35,13 @@
 ## About The Project
 
 <div align="center">
-  <img src="Keyboard_Layout_Shan.png" alt="Panglong Keyboard by Sai Tawng Pha" height="300" width="100%" /><br />
-  <figure>Panglong Keyboard by Sai Tawng Pha</figure>
+  <figure>
+    <img src="Keyboard_Layout_Shan.png" alt="Panglong Keyboard by Sai Tawng Pha" height="300"/><br />
+    <figcaption>Panglong Keyboard by Sai Tawng Pha</figcaption>
+  </figure>
 </div>
 
-
+<br />
 
 These are  Panglong Keyboard layout for [Shan/Tai language](https://en.wikipedia.org/wiki/Shan_language) fully open source supported all mainstream platforms Android, iOS, Linux, macOS, and windows.
 

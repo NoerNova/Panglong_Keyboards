@@ -50,9 +50,9 @@
 </div>
 <br />
 
-တႃႇတေၸႂ်ႉတိုဝ်းလိၵ်ႈတႆးၼႂ်း Linux (Ubuntu, Debian) ဢၼ်မီးဝႆႉတေၵႆႉ" ႁၼ်ၸိူဝ်း [iBus, Keyman (Keymagic)](https://askubuntu.com/a/269801) ၶဝ်ၸိူဝ်းၼႆႉပဵၼ် Program, App ဢၼ်ၼိုင်ဢၼ်တေလႆႈ Install လူင်းၼႂ်းၶိူင်ႈ ၸဵမ်ဢဝ် dependency ယွႆႈယႅမ်းတင်းၸိူဝ်း။
+တႃႇတေၸႂ်ႉတိုဝ်းလိၵ်ႈတႆးၼႂ်း Linux (Ubuntu, Debian) ဢၼ်မီးဝႆႉတေၵႆႉ" ႁၼ်ၸိူဝ်း [iBus, Keyman (Keymagic)](https://askubuntu.com/a/269801) ၶဝ်ၸိူဝ်းၼႆႉပဵၼ် Program, App ဢၼ်ၼိုင်ဢၼ်တေလႆႈ Install လူင်းၼႂ်းၶိူင်ႈ ၸဵမ်ဢဝ် dependency ယွႆႈယႅမ်းတင်းၸိူဝ်းမၢင်ပွၵ်ႈၵေႃႈသုၵ်ႉသၵ်ႉယုင်ႈယၢၵ်ႈဝႆႉ။
 
-ၸိူဝ်းၼႆႉဢမ်ႇမိူၼ် Native keyboard (feel like native) ဢၼ်ပႃးမႃးၼႂ်း Linux။
+ထႅင်ႈပိူင်ၼိုင်ႈ ၶဝ်ၸိူဝ်းၼႆႉဢမ်ႇမိူၼ် Native keyboard (feel like native) ဢၼ်ပႃးမႃးၼႂ်း Linux Standard။
 
 ယိူင်းဢၢၼ်းတႃႇ project ၼႆႉတႄႈၵေႃႈ တႃႇလဵပ်ႈႁဵၼ်းလႄႈတႃႇ tai-developer ဢၼ်သူၼ်ၸႂ်ၶႂ်ႈလဵပ်ႈႁဵၼ်း ဢမ်ႇၼၼ်သိုပ်ႇၶူင်သၢင်ႁႂ်ႈၶႅမ်ႉလႅပ်ႈၵႂႃႇတၢင်းၼႃႈၼၼ်ႉ လႆႈပိုၼ်ၽႄႈဝႆႉပၼ်ၶႃႈ။
 

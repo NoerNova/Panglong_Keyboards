@@ -76,7 +76,7 @@ Keyboard app ၼိူဝ် iOS ဢၼ်ပႃးမႃး (support) လိၵ
 </table> 
 </div>
 
-TTkeyboard version မိူဝ်ႈလဵဝ်း လွၵ်းလၢႆးလႅၵ်ႈပိၼ်ၾႃႇသႃႇဢမ်ႇပႆႇပေႃးမိူၼ် Native (feel like native) ၼႂ်း iOS, language chang button ၼႂ်း iPhone 11 ၶိုၼ်ႈၼိူဝ်ပႃးမႃးဝႆႈသွင်ဢၼ်။
+TTkeyboard version မိူဝ်ႈလဵဝ်း လွၵ်းလၢႆးလႅၵ်ႈပိၼ်ၾႃႇသႃႇဢမ်ႇပႆႇပေႃးမိူၼ် Native (feel like native) ၼႂ်း iOS, language chang button ၼႂ်း iPhoneX ၶိုၼ်ႈၼိူဝ်ပႃးမႃးဝႆႈသွင်ဢၼ်။
 
 ၵွပ်ႈယူႇပႃႈတႂ်ႈၶွမ်ႊပႃႇၼီႇ (Company) သေ ၶဝ်ၵေႃႈ ဢမ်ႇပိုတ်ႇပၼ် open-source မီၶူဝ်ႊသၼႃး (ads) လႄႈၵၢၼ်ၵဵပ်းၶေႃႈမုၼ်းၽူႈၸႂ်ႉတိုဝ်း။
 
@@ -129,7 +129,7 @@ iOS ၼႂ်း xCode ပၼ်မႃးပႃးလွၵ်းလၢႆးတ
 
 ၶႃႈလႆႈၶူၼ်ႉႁႃၶေႃႈမုၼ်းတူၺ်းၸွင်ႇယၢမ်ႈမီးၽႂ် custom iOS keyboard သေ ပိုတ်ႇ open-source ဝႆႉ၊ ဢၼ်ၶိုၵ်ႉမၼ်းမီးဝႆႉသွင်သၢမ်ဢၼ်ၵူၺ်းဢမ်ႇမီးဢၼ်လႂ်မိူၼ် Native iOS keyboard သေဢၼ် မိူၼ်ၼင်ႇ၊
 - [https://github.com/KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) ပဵၼ်ဢၼ်မႂ်ႇ update တီႈသုတ်း ၵူၺ်း animation မၼ်းဢမ်ႇမိူၼ် iOS native
-- [https://github.com/archagon/tasty-imitation-keyboard](https://github.com/archagon/tasty-imitation-keyboard) animation မိူၼ် iOS native ၵူၺ်း feature လၢႆ"ဢၼ်ဢမ်ႇပႆႇတဵမ်ထူၼ်ႈ၊ တႅမ်ႈဝႆႉမိူဝ်ႈ 8 ပီပူၼ်ႉမႃးယဝ်ႉ
+- [https://github.com/archagon/tasty-imitation-keyboard](https://github.com/archagon/tasty-imitation-keyboard) animation မိူၼ် iOS native ၵူၺ်း feature လၢႆ"ဢၼ်ဢမ်ႇပႆႇတဵမ်ထူၼ်ႈ၊ **တႅမ်ႈဝႆႉမိူဝ်ႈ 8 ပီပူၼ်ႉမႃးယဝ်ႉ**။
 
 <figure align="center">
   <img src="tasty-imitation-keyboard.png" width="300">

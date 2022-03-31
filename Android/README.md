@@ -91,6 +91,7 @@ Gboard တႄႉငၢႆး" လွၵ်းမိုဝ်းပၢင်လ�
 
 AOSP - inputmethod/LatinIME ပဵၼ် open-source project ၶွင် android, ပႃးလူၺ်ႈၶိူင်ႈမိုဝ်း၊ starter တွၼ်ႈတႃႇၶူင်သၢင်ႈလွၵ်းမိုဝ်းတွၼ်ႈတႃႇ android။
 
+#### **Challenge**
 မိူဝ်ႈတိုၵ်ႉတႅမ်ႈ project ၼႆႉ AOSP ယင်းဢမ်ႇပႆႇ support [three-letter ISO 639-2 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) တွၼ်ႈတႃႈလိၵ်ႈတႆး မၢႆ [ISO639-2 standard id 399](https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?code_ID=399) three-letter code ပဵၼ် "shn".
 
 တွၼ်ႈၼႆႉ ၶႃႈဢဝ် [Patch ဢၼ်ႁဵတ်းဝႆႉ](https://github.com/NoerNova/openboard-AOSP_shan-layout-patched) ၼႆႉသေသူင်ႇၶိုၼ်ႈၼိူဝ် [AOSP - android-review.googlesource.com](https://android-review.googlesource.com/c/platform/packages/inputmethods/LatinIME/+/2046273) ဝႆႉၶႃႈ။

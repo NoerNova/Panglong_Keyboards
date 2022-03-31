@@ -67,7 +67,7 @@ Project ၶူင်သၢင်ႈ လွၵ်းမိုဝ်းပၢင�
 - [x] Linux - [https://github.com/NoerNova/Shan-keyboard-X11-linux](https://github.com/NoerNova/Shan-keyboard-X11-linux)
   - [ ] Contribute to Linux package management
 - [x] macOS - [https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS](https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS)
-- [x] Windows - [https://github.com/NoerNova/Panglong_Shan_Keyboard_win](https://github.com/NoerNova/Panglong_Shan_Keyboard_win)
+- [x] Windows - [https://github.com/NoerNova/Panglong_Shan_Keyboard_Windows](https://github.com/NoerNova/Panglong_Shan_Keyboard_Windows)
 
 See the [open issues](https://github.com/NoerNova/Panglong_Keyboards/issues) for a full list of proposed features (and known issues).
 

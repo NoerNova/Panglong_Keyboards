@@ -30,6 +30,7 @@
     </li>
     <li><a href="#debian-standard-keyboard">Debian Standard Keyboard</a></li>
     <li><a href="#shan-x11-xkb-symbols">Shan X11 xkb symbols/</a></li>
+    <li><a href="#project-link">Project Link</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>

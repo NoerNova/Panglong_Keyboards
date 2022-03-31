@@ -78,6 +78,7 @@ See the [open issues](https://github.com/NoerNova/Panglong_Keyboards/issues) for
 ## Project Link
 
 - Android: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android)
+  - AOSP-Dictionary-Tools: [https://github.com/NoerNova/aosp-dictionary-tools](https://github.com/NoerNova/aosp-dictionary-tools)
 - iOS: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/iOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/iOS)
 - Linux: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/Linux](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Linux)
 - macOS: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/macOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/macOS)

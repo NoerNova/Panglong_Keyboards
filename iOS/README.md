@@ -29,7 +29,7 @@
       <a href="#about-the-project">လွင်ႈတၢင်း</a>
     </li>
     <li><a href="#ios-custom-keyboard">iOS custom keyboard</a></li>
-    <li><a href="#archagon-tasty-imitation-keyboard">Archagon - Tasty-imitation-keyboard</a></li>
+    <li><a href="#archagon---tasty-imitation-keyboard">Archagon - Tasty-imitation-keyboard</a></li>
     <li><a href="#project-link">Project Link</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>

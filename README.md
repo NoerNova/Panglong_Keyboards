@@ -23,6 +23,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#project-link">Project Link</a></a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -61,6 +62,18 @@ These are  Panglong Keyboard layout for [Shan/Tai language](https://en.wikipedia
 - [x] Windows - [https://github.com/NoerNova/Panglong_Shan_Keyboard_win](https://github.com/NoerNova/Panglong_Shan_Keyboard_win)
 
 See the [open issues](https://github.com/NoerNova/Panglong_Keyboards/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- PROJECT LINK -->
+
+## Project Link
+
+- Android: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android)
+- iOS: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/iOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/iOS)
+- Linux: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/Linux](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Linux)
+- macOS: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/macOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/macOS)
+- Windows: [https://github.com/NoerNova/Panglong_Keyboards/tree/main/Windows](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Windows)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

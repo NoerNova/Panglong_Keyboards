@@ -8,7 +8,7 @@
     <img src="Panglong_Keyboard-logo.png" alt="Panglong Keyboard" width="80" height="80">
   </a>
 
-  <h3 align="center">Panglong Keyboard - Shan keyboard layout</h3>
+  <h3 align="center">Panglong Keyboard (လွၵ်းမိုဝ်း ပၢင်လူင်) - Shan keyboard layout</h3>
 
 </div>
 
@@ -26,7 +26,7 @@
     <li><a href="#project-link">Project Link</a></a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#ၵပ်းသိုပ်ႇ">ၵပ်းသိုပ်ႇ</a></li>
   </ol>
 </details>
 
@@ -44,7 +44,15 @@
 
 <br />
 
-These are  Panglong Keyboard layout for [Shan/Tai language](https://en.wikipedia.org/wiki/Shan_language) fully open source supported all mainstream platforms Android, iOS, Linux, macOS, and windows.
+Project ၶူင်သၢင်ႈ လွၵ်းမိုဝ်းပၢင်လူင် တွၼ်ႈတႃႇလိၵ်ႈတႆး [Shan/Tai language](https://en.wikipedia.org/wiki/Shan_language) လႄႈပိုတ်ႇၽုၺ်ႇသွတ်ႉၶူတ်ႉ (Open-Source) တွၼ်ႈတႃႇ mainstream platform ၵူႇဢၼ်မိူၼ်ၼင်ႇ
+
+ယိူင်းဢၢၼ်းတႃႇ project ၼႆႉတႄႈၵေႃႈ တႃႇလဵပ်ႈႁဵၼ်းလႄႈတႃႇ tai-developer ဢၼ်သူၼ်ၸႂ်ၶႂ်ႈလဵပ်ႈႁဵၼ်း ဢမ်ႇၼၼ်သိုပ်ႇၶူင်သၢင်ႁႂ်ႈၶႅမ်ႉလႅပ်ႈၵႂႃႇတၢင်းၼႃႈၼၼ်ႉ လႆႈပိုၼ်ၽႄႈဝႆႉပၼ်ၶႃႈ။
+
+- [x] Android
+- [x] iOS
+- [x] Linux
+- [x] macOS
+- [x] Windows
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -104,7 +112,7 @@ Apache 2.0.
 
 <!-- CONTACT -->
 
-## Contact
+## ၵပ်းသိုပ်ႇ
 
 NorHsangPha - [noernova.com](noernova.com) - noernova666@gmail.com
 

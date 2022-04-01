@@ -49,7 +49,7 @@ Project ၶူင်သၢင်ႈ လွၵ်းမိုဝ်းပၢင�
 ယိူင်းဢၢၼ်းတႃႇ project ၼႆႉတႄႈၵေႃႈ တႃႇလဵပ်ႈႁဵၼ်းလႄႈတႃႇ tai-developer ဢၼ်သူၼ်ၸႂ်ၶႂ်ႈလဵပ်ႈႁဵၼ်း ဢမ်ႇၼၼ်သိုပ်ႇၶူင်သၢင်ႁႂ်ႈၶႅမ်ႉလႅပ်ႈၵႂႃႇတၢင်းၼႃႈၼၼ်ႉ လႆႈပိုၼ်ၽႄႈဝႆႉပၼ်ၶႃႈ။
 
 - [x] [Android](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android)
-  - [ ] [AOSP-Dictionary-Tools](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android/aosp-dictionary-tools)
+  - [x] [AOSP-Dictionary-Tools](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android/aosp-dictionary-tools)
 - [x] [iOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/iOS)
 - [x] [Linux](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Linux)
 - [x] [macOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/macOS)

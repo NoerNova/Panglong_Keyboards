@@ -12,6 +12,16 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/NoerNova/Panglong_Keyboards">
+    <img src="PangLong_Shan_character_map.jpg" alt="Panglong Keyboard 2011" width="80" height="80">
+  </a>
+
+  <h3 align="center">Panglong Keyboard (လွၵ်းမိုဝ်း ပၢင်လူင်) - Shan keyboard layout</h3>
+
+</div>
+
+
 
 
 <!-- TABLE OF CONTENTS -->

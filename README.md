@@ -53,14 +53,14 @@
 
 Project ၶူင်သၢင်ႈ လွၵ်းမိုဝ်းပၢင်လူင် တွၼ်ႈတႃႇလိၵ်ႈတႆး [Shan/Tai language](https://en.wikipedia.org/wiki/Shan_language) လႄႈပိုတ်ႇၽုၺ်ႇသွတ်ႉၶူတ်ႉ (Open-Source) တွၼ်ႈတႃႇ mainstream platform ၵူႇဢၼ်မိူၼ်ၼင်ႇ
 
-ယိူင်းဢၢၼ်းတႃႇ project ၼႆႉတႄႈၵေႃႈ တႃႇလဵပ်ႈႁဵၼ်းလႄႈတႃႇ tai-developer ဢၼ်သူၼ်ၸႂ်ၶႂ်ႈလဵပ်ႈႁဵၼ်း ဢမ်ႇၼၼ်သိုပ်ႇၶူင်သၢင်ႁႂ်ႈၶႅမ်ႉလႅပ်ႈၵႂႃႇတၢင်းၼႃႈၼၼ်ႉ လႆႈပိုၼ်ၽႄႈဝႆႉပၼ်ၶႃႈ။
-
 - [x] [Android](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android)
   - [x] [AOSP-Dictionary-Tools](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Android/aosp-dictionary-tools)
 - [x] [iOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/iOS)
 - [x] [Linux](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Linux)
 - [x] [macOS](https://github.com/NoerNova/Panglong_Keyboards/tree/main/macOS)
 - [x] [Windows](https://github.com/NoerNova/Panglong_Keyboards/tree/main/Windows)
+
+ယိူင်းဢၢၼ်းတႃႇ project ၼႆႉတႄႈၵေႃႈ တႃႇလဵပ်ႈႁဵၼ်းလႄႈတႃႇ tai-developer ဢၼ်သူၼ်ၸႂ်ၶႂ်ႈလဵပ်ႈႁဵၼ်း ဢမ်ႇၼၼ်သိုပ်ႇၶူင်သၢင်ႁႂ်ႈၶႅမ်ႉလႅပ်ႈၵႂႃႇတၢင်းၼႃႈၼၼ်ႉ လႆႈပိုၼ်ၽႄႈဝႆႉပၼ်ၶႃႈ။
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

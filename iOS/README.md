@@ -145,7 +145,7 @@ iOS ၼႂ်း xCode ပၼ်မႃးပႃးလွၵ်းလၢႆးတ
 ## Project Link
 
 ### Tasty-Imitation-Keyboard
-- Openboard (Original): [https://github.com/openboard-team/openboard](https://github.com/openboard-team/openboard)
+- Tasty-imitation-keyboard (Original): [https://github.com/archagon/tasty-imitation-keyboard](https://github.com/archagon/tasty-imitation-keyboard)
 
 ### PanglongKeyboard-iOS
 - PanglongKeyboard-iOS: [https://github.com/NoerNova/PanglongKeyboard-iOS](https://github.com/NoerNova/PanglongKeyboard-iOS)

@@ -83,7 +83,7 @@ Project ၶူင်သၢင်ႈ လွၵ်းမိုဝ်းပၢင�
 
 - [x] Android - [https://github.com/NoerNova/openboard](https://github.com/NoerNova/openboard)
   - [x] With auto correct dictionary.
-- [x] iOS - [https://github.com/NoerNova/PanglongKeyboard-iOS](https://github.com/NoerNova/PanglongKeyboard-iOS)
+- [x] iOS - [https://github.com/NoerNova/ShanKeyboard-iOS](https://github.com/NoerNova/ShanKeyboard-iOS)
   - [ ] With auto correct dictionary.
 - [x] Linux - [https://github.com/NoerNova/Shan-keyboard-X11-linux](https://github.com/NoerNova/Shan-keyboard-X11-linux)
   - [ ] Contribute to Linux package management
@@ -104,7 +104,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star ⭐️ ! Thanks again!
 
 1. Android - [https://github.com/NoerNova/openboard/pulls](https://github.com/NoerNova/openboard/pulls)
-2. iOS - [https://github.com/NoerNova/PanglongKeyboard-iOS/pulls](https://github.com/NoerNova/PanglongKeyboard-iOS/pulls)
+2. iOS - [https://github.com/NoerNova/ShanKeyboard-iOS/pulls](https://github.com/NoerNova/ShanKeyboard-iOS/pulls)
 3. Linux - [https://github.com/NoerNova/Shan-keyboard-X11-linux/pulls](https://github.com/NoerNova/Shan-keyboard-X11-linux/pulls)
 4. macOS - [https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS/pulls](https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS/pulls)
 5. Windows - [https://github.com/NoerNova/Panglong_Shan_Keyboard_win/pulls](https://github.com/NoerNova/Panglong_Shan_Keyboard_win/pulls)
